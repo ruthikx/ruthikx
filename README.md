@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/followers/ruthikx?label=Followers&style=flat-square&color=6C63FF" />
   </a>
   <a href="https://github.com/ruthikx?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-13+-6C63FF?style=flat-square" />
+    <img src="https://img.shields.io/badge/Repos-17+-6C63FF?style=flat-square" />
   </a>
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-6C63FF?style=flat-square" />
 
@@ -42,11 +42,9 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 **Frontend**
 <br/>
