@@ -21,7 +21,6 @@
 ## 🚀 About Me
 
 - 💻 Software Development Intern (Full Stack) @ **Dyashin Technosoft Pvt. Ltd.** — building **CodeMentorAI**
-- 🎓 MCA @ Tumkur University (2024–2026) · B.Sc. Computer Science @ SDM College Ujire
 - 🛠️ I build full-stack platforms — civic tech, AI-powered tools, and mobile apps — end to end
 - 🤖 Into agentic AI, RAG pipelines, and LLM-powered developer tools
 - 📫 Reach me on [LinkedIn](https://linkedin.com) · [Email](mailto:you@example.com)
