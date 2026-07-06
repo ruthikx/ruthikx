@@ -18,7 +18,7 @@
 
 <br/>
 
-## 🚀 About Me
+## About Me
 
 - 💻 Software Development Intern (Full Stack) @ **Dyashin Technosoft Pvt. Ltd.** building **CodeMentorAI**
 - 🛠️ I build full-stack platforms civic tech, AI-powered tools, and mobile apps end to end
@@ -27,7 +27,7 @@
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -78,7 +78,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -88,13 +88,13 @@
 
 <br/>
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛣️ [ReportPothole](https://github.com/ruthikx/ReportPothole)
+### [ReportPothole](https://github.com/ruthikx/ReportPothole)
 **Civic-tech monorepo** for reporting & tracking pothole repairs — citizen app, admin console, public dashboard, and backend in one system.
 
 `Node.js` `MongoDB` `Redis/BullMQ` `Expo` `React`
@@ -107,7 +107,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [CodeMentorAI](https://github.com/ruthikx/CodeMentorAI)
+### [CodeMentorAI](https://github.com/ruthikx/CodeMentorAI)
 **AI code review platform** — paste code or a repo, get streamed AI findings with an accept/reject fix workflow.
 
 `Next.js` `Turborepo` `Groq/Gemini` `Postgres/Prisma`
@@ -122,7 +122,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 [Multi-Agent Research Assistant](https://github.com/ruthikx/Multi-Agent-Research-Assistant)
+### [Multi-Agent Research Assistant](https://github.com/ruthikx/Multi-Agent-Research-Assistant)
 4-stage agent pipeline — **Search → Scrape → Write → Critique** — with a live-streaming dark-mode UI.
 
 `Next.js 15` `FastAPI` `LangChain` `Tavily`
@@ -134,7 +134,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 📱 [skyRabbit](https://github.com/ruthikx/skyRabbit)
+### [skyRabbit](https://github.com/ruthikx/skyRabbit)
 Cross-platform **super-app** combining AI assistant, real-time chat, weather, and IoT device monitoring.
 
 `React Native` `Expo` `Firebase` `MongoDB`
@@ -148,7 +148,7 @@ Cross-platform **super-app** combining AI assistant, real-time chat, weather, an
 <tr>
 <td width="50%" valign="top">
 
-### 💊 [MediMate+](https://github.com/ruthikx/MediMate)
+### [MediMate+](https://github.com/ruthikx/MediMate)
 Medication reminder & health management app with offline-first tracking and biometric security.
 
 `React Native` `Expo Router` `Firebase`
@@ -160,7 +160,7 @@ Medication reminder & health management app with offline-first tracking and biom
 </td>
 <td width="50%" valign="top">
 
-### 🔐 [SteganoApp](https://github.com/ruthikx/SteganoApp)
+### [SteganoApp](https://github.com/ruthikx/SteganoApp)
 Secure messaging via **image steganography** — AES-256 + RSA-2048 hybrid encryption, no backend required.
 
 `React Native` `Quick Crypto` `Expo`
@@ -174,7 +174,7 @@ Secure messaging via **image steganography** — AES-256 + RSA-2048 hybrid encry
 </table>
 
 <details>
-<summary><b>📁 More projects</b></summary>
+<summary><b>More projects</b></summary>
 <br/>
 
 | Project | Description | Stack |
@@ -193,7 +193,7 @@ Secure messaging via **image steganography** — AES-256 + RSA-2048 hybrid encry
 
 <div align="center">
 
-### 📫 Let's Connect
+### Let's Connect
 
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
